@@ -11,3 +11,5 @@ This allowed to practice:
 * CSS manipulation by Javascript;
 
 ## Output
+
+![RGB Finder](https://github.com/carloscarrinho/igtiBootcamp_practiceWork_RGBFinder/blob/master/practiceWork01.gif)
